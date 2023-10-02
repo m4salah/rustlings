@@ -2379,6 +2379,87 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "ob",
+      "name": "Oscar Bonilla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4950?v=4",
+      "profile": "http://oscarbonilla.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "husjon",
+      "name": "Jon Erling Hustadnes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/554229?v=4",
+      "profile": "https://github.com/husjon",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "CobaltCause",
+      "name": "Charles Hall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7003738?v=4",
+      "profile": "https://github.com/CobaltCause",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "krmpotic",
+      "name": "Luka Krmpotić",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10350645?v=4",
+      "profile": "https://github.com/krmpotic",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jurglic",
+      "name": "Jurglic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112600?v=4",
+      "profile": "https://github.com/jurglic",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "OfirLauber",
+      "name": "Ofir Lauber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5631030?v=4",
+      "profile": "https://github.com/OfirLauber",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "offbyone",
+      "name": "Chris Rose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181693?v=4",
+      "profile": "https://github.com/offbyone",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "dieterplex",
+      "name": "d1t2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/507502?v=4",
+      "profile": "https://github.com/dieterplex",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "docwilco",
+      "name": "docwilco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66911096?v=4",
+      "profile": "https://github.com/docwilco",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 8,
