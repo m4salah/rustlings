@@ -14,9 +14,11 @@
 // No hints this time ;)
 
 // Put your function here!
-fn calculate_price_of_apples(n: i32) -> i32 {
+const APPLE_DISCOUNT: u32 = 2;
+
+fn calculate_price_of_apples(n: u32) -> u32 {
     if n <= 40 {
-        n * 2
+        n * APPLE_DISCOUNT
     } else {
         n
     }
